@@ -1,0 +1,41 @@
+.postheader {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+.postheader h4 {
+  margin-left: 10px;
+  padding: 10px;
+}
+.posts img {
+  width: 100%;
+}
+.posts h3 {
+  margin-left: 10px;
+  font-weight: 1000%;
+  padding: 10px;
+}
+strong {
+  font-weight: bold;
+}
+.posts {
+  border: 1px solid lightgray;
+  margin-bottom: 30px;
+}
+.post_commentsBox {
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.comment_text {
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 5px;
+  border: 1px solid lightgray;
+}
+Button {
+  color: #6677ad;
+}
+.post_comments {
+  margin-left: 20px;
+}
